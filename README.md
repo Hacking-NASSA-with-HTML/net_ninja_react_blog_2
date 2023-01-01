@@ -4,8 +4,6 @@ Awesome tutorial over materials of
 
 https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d 
 
-Consists of THREE branches now. 
-
 Command to run the json-server in the SECOND terminal:
 
 ```
