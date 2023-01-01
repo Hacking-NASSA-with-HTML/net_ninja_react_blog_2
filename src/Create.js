@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 const Create = () => {
-    const [title, setTitle] = useState('')
+    const [title, setTitle] = useState('Add blog\'s title')
     const [body, setBody] = useState('')
     // const [author, setAuthor] = useState('mario')
     const [author, setAuthor] = useState('mario')
