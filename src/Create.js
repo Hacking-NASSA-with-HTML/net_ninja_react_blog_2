@@ -5,7 +5,7 @@ const Create = () => {
     const [title, setTitle] = useState('Add blog\'s title')
     const [body, setBody] = useState('')
     // const [author, setAuthor] = useState('mario')
-    const [author, setAuthor] = useState('mario')
+    const [author, setAuthor] = useState('')
     const [isPending, setIsPending] = useState(false)
     const navigate = useNavigate()
 
